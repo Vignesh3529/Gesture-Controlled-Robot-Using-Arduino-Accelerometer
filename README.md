@@ -36,9 +36,6 @@ Control a robot using your hand gestures! This project uses an ADXL sensor to de
 - `transmitter.ino`: Reads ADXL and sends direction
 - `receiver.ino`: Decodes and runs motors
 
-[View Transmitter Code](code/transmitter.ino)  
-[View Receiver Code](code/receiver.ino)
-
 ## 🚀 Extensions
 - Use Bluetooth instead of RF
 - Add object detection using Ultrasonic sensor
